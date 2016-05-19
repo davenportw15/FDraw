@@ -77,7 +77,7 @@ let main argv =
     let mainColor       = Color.Blue         // Color of main triangles
     let invertedColor   = Color.DarkSeaGreen // Color of inverted triangle
     let backgroundColor = Color.White        // Color of background
-    let drawBackground  = false              // Enable if 
+    let drawBackground  = false              // Enable if solid background desired
 
     // Graphics
     let bitmap   = new Bitmap (height, width)
