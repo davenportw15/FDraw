@@ -6,3 +6,7 @@ This project depends on System.Draw, which can be referenced both in Windows and
 A number of constants are defined in the `main` function of `Program.fs`. Make sure to change the `outputPath` to a local path on your computer.
 
 Here is the output with the default settings:
+
+![fractal](http://i.imgur.com/8wJV2EN.png)
+
+(Note that this project has only been tested in Mono.)
