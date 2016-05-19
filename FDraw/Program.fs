@@ -102,7 +102,7 @@ let main argv =
     drawSubTriangles iterations graphics mainBrush invertedBrush mainTriangle
 
     // Save bitmap
-    bitmap.Save(outputPath)
+    bitmap.Save (outputPath)
 
     // Return success
     0
